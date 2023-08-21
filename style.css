@@ -357,6 +357,7 @@ article .icon {
 
 #projects {
   position: relative;
+  margin-top: -210px;
 }
 
 .color-container {
@@ -387,6 +388,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+  margin: -150px;
 }
 
 .contact-info-upper-container {
@@ -430,3 +432,18 @@ footer {
 footer p {
   text-align: center;
 }
+.btn-container {
+  text-align: center;
+  margin-top: 10px;
+}
+.code-img {
+  width: 100px; /* Adjust the width as needed */
+  height: 100px; /* Adjust the height as needed */
+  object-fit: cover;
+  border-radius: 50%;
+}
+/* Adjust the margin for the #contact section */
+#contact {
+  margin-top: -50px; /* You can adjust this value as needed */
+}
+
