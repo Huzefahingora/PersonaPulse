@@ -15,6 +15,7 @@ body {
 .project-container {
   height: auto; /* Adjust the height as needed */
   /* Add any other styles you want */
+  margin-top: auto;
 }
 
 html {
@@ -45,6 +46,10 @@ nav {
   height: 17vh;
 }
 
+.main{
+  position: absolute;
+  height: inherit;;
+}
 .nav-links {
   gap: 2rem;
   list-style: none;
@@ -151,7 +156,9 @@ a:hover {
 .hamburger-icon span:first-child {
   transform: none;
 }
-
+.skills{
+  margin : 0.5%;
+}
 /* SECTIONS */
 
 section {
@@ -363,7 +370,7 @@ article .icon {
 
 #projects {
   position: relative;
-  margin-top: -210px;
+  margin-top: 10px;
 }
 
 .color-container {
