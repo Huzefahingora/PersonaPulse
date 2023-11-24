@@ -7,7 +7,7 @@ Welcome to PersonaPulse GitHub repository! This is the digital abode where my pe
 
 🔗 Connect with Me:
 
-🌐 Website: PersonaPulse.netlify.app
+🌐 Website: huzefa7.netlify.app
 👔 linkdin: @HuzefaHingora
 ✉️ Email: huzefa7ftw@gmail.com.com
 Feel free to explore, collaborate, and engage. Let's embark on a journey of discovery together, where code and words converge to create a digital narrative of growth and learning.
