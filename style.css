@@ -12,6 +12,10 @@ body {
   position: relative;
   overflow-x: hidden;
 }
+.project-container {
+  height: 300px; /* Adjust the height as needed */
+  /* Add any other styles you want */
+}
 
 html {
   scroll-behavior: smooth;
