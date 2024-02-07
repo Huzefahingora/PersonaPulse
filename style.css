@@ -225,6 +225,9 @@ section {
   cursor: pointer;
   height: 2rem;
 }
+#icon{
+  position: relative;
+}
 
 /* BUTTONS */
 
